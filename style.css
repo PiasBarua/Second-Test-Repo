@@ -12,3 +12,11 @@ h4{
     background-color: rgb(22, 123, 153);
     color: azure;
 }
+.Deparment-list{
+    color: rgb(210, 30, 60);
+    height: 150px;
+    width: 80;
+    background-color: gray;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100;
+}
